@@ -7,13 +7,13 @@ http://103.77.116.191:443//tvdigital/3_sd_480p.stream/playlist.m3u8?st=BAna1lrGO
 #EXTINF:0,CH-3Family
 http://103.77.116.191:443//tvdigital/3_family_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:0,CH-3HD
-http://103.77.116.191:443//tvdigital/3_hd_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:0,CH-5HD
-http://103.77.116.191:443//tvdigital/tv5_hd_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://103.212.181.21:1935/freelive-edge/_definst_/5hd.smil/playlist.m3u8
 #EXTINF:0,CH-7HD
-http://103.77.116.191:443//tvdigital/7_hd_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
 #EXTINF:0,CH-9HD
-http://103.77.116.191:443//tvdigital/mcot_hd_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://27.254.154.154:1935/sport/MCOT_HD.stream/playlist.m3u8
 #EXTINF:0,AmarinTV
 http://103.77.116.191:443//tvdigital/amarin_tv_hd_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:0,Thairath
@@ -23,15 +23,15 @@ http://103.77.116.191:443//tvdigital/one_720p.stream/playlist.m3u8?st=BAna1lrGOJ
 #EXTINF:0,MoneyCH
 http://103.77.116.191:443//news/money_channel_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:0,PPTV
-http://103.77.116.191:443//tvdigital/pptv_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://27.254.154.154:1935/sport/PPTV_HD.stream/playlist.m3u8
 #EXTINF:0,Nono29
-http://103.77.116.191:443//tvdigital/mono_29_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://edge3-bkk.3bb.co.th:1935/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8
 #EXTINF:0,Fox
 http://103.77.116.191:443//movie/fx_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:0,Fox Thai
 http://103.77.116.191:443//movie/fox_thai_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:0,Workpoint
-http://103.77.116.191:443//tvdigital/workpoint_tv_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277227873_600/playlist.m3u8
 #EXTINF:0,True SCI
 http://103.77.116.191:443//documentary/true_explore_sci_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:0,True Wild
@@ -44,6 +44,8 @@ http://cdn-usa1-streaming.ani-box.com:1935/live/bs02.stream/playlist.m3u8
 http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
 #EXTINF:0,True Asian Film
 http://103.77.116.191:443//movie/true_asian_series_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+#EXTINF:0,True4U
+http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308235425316_600/playlist.m3u8
 #EXTINF:0,NHKG
 http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
 #EXTINF:0,TVasahi
