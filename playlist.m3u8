@@ -1,11 +1,15 @@
 #EXTINF:0,CH-3HD
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
+#EXTINF:0,CH-3HD 2
+http://27.131.160.10/ibcbet/ch3/playlist.m3u8?st=zNx0nOhcq1mWDIV_qQDwwQ&username=12776&password=mmmmef484241b3792404b5ef&e=1515359189
 #EXTINF:0,CH-5HD
 http://103.212.181.21:1935/freelive-edge/_definst_/5hd.smil/playlist.m3u8
 #EXTINF:0,CH-7HD
 http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
 #EXTINF:0,CH-9HD
 http://27.254.154.154:1935/sport/MCOT_HD.stream/playlist.m3u8
+#EXTINF:0,FTV
+http://103.77.116.193:443/varity/fashion_tv_hd_720p.stream/playlist.m3u8?st=zNx0nOhcq1mWDIV_qQDwwQ&username=12776&password=mmmmef484241b3792404b5ef&e=1515359189
 #EXTINF:0,AmarinTV
 http://27.254.64.112:1935/thflixCH/Amarin_TV_HD.stream/playlist.m3u8
 #EXTINF:0,Thairath
@@ -15,7 +19,7 @@ http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
 #EXTINF:0,OneTV
 http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
 #EXTINF:0,MoneyCH
-http://103.77.116.191:443//news/money_channel_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://103.77.116.193:443/news/money_channel_480p.stream/playlist.m3u8?st=zNx0nOhcq1mWDIV_qQDwwQ&username=12776&password=mmmmef484241b3792404b5ef&e=1515359189
 #EXTINF:0,PPTV
 http://27.254.154.154:1935/sport/PPTV_HD.stream/playlist.m3u8
 #EXTINF:0,Nono29
@@ -25,17 +29,15 @@ http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277227873_600/playlist.m3u
 #EXTINF:0,True4U
 http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308235425316_600/playlist.m3u8
 #EXTINF:0,HBOHD
-http://103.77.116.191:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=6NKTnwLZx1MsEaUpYAvEHA&username=20599&password=mmmmac0f1724eeb2d0502e70&e=1515300454
+http://103.77.116.193:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=zNx0nOhcq1mWDIV_qQDwwQ&username=12776&password=mmmmef484241b3792404b5ef&e=1515359189
 #EXTINF:0,NHK-Word
-http://103.77.116.191:443//news/nhk_world_tv_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://103.77.116.193:443/news/nhk_world_tv_720p.stream/playlist.m3u8?st=zNx0nOhcq1mWDIV_qQDwwQ&username=12776&password=mmmmef484241b3792404b5ef&e=1515359189
 #EXTINF:0,Asia-News
 http://103.77.116.191:443//news/channel_newsasia_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:0,bein1
-http://103.77.116.191:443/sporttrue/Jbein_sports_1_480p.stream/playlist.m3u8?st=6NKTnwLZx1MsEaUpYAvEHA&username=20599&password=mmmmac0f1724eeb2d0502e70&e=1515300454
+http://103.77.116.193:443/sportinter/bein1arab_360p.stream/playlist.m3u8?st=zNx0nOhcq1mWDIV_qQDwwQ&username=12776&password=mmmmef484241b3792404b5ef&e=1515359189
 #EXTINF:0,bein2
-http://103.77.116.191:443/sporttrue/bein_sports_2_480p.stream/playlist.m3u8?st=6NKTnwLZx1MsEaUpYAvEHA&username=20599&password=mmmmac0f1724eeb2d0502e70&e=1515300454
-
-
+http://103.77.116.193:443/sporttrue/bein_sports_2_720p.stream/playlist.m3u8?st=zNx0nOhcq1mWDIV_qQDwwQ&username=12776&password=mmmmef484241b3792404b5ef&e=1515359189
 
 
 
