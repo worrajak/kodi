@@ -1,7 +1,3 @@
-#EXTINF:0,CH-3SD
-http://103.77.116.191:443//tvdigital/3_sd_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,CH-3Family
-http://103.77.116.191:443//tvdigital/3_family_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:0,CH-3HD
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
 #EXTINF:0,CH-5HD
@@ -11,77 +7,33 @@ http://live.pjmcdn.info/live/Ch7-HD.stream/playlist.m3u8
 #EXTINF:0,CH-9HD
 http://27.254.154.154:1935/sport/MCOT_HD.stream/playlist.m3u8
 #EXTINF:0,AmarinTV
-http://103.77.116.191:443//tvdigital/amarin_tv_hd_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://27.254.64.112:1935/thflixCH/Amarin_TV_HD.stream/playlist.m3u8
 #EXTINF:0,Thairath
 http://103.77.116.191:443//tvdigital/thairath_tv_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,OneHD
-http://103.77.116.191:443//tvdigital/one_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+#EXTINF:0,NewTV
+http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
+#EXTINF:0,OneTV
+http://live.pjmcdn.info/live/ONE-HD.stream/playlist.m3u8
 #EXTINF:0,MoneyCH
 http://103.77.116.191:443//news/money_channel_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:0,PPTV
 http://27.254.154.154:1935/sport/PPTV_HD.stream/playlist.m3u8
 #EXTINF:0,Nono29
 http://edge3-bkk.3bb.co.th:1935/MONO29_HLS_720P/mono29hls_720TH.stream/playlist.m3u8
-#EXTINF:0,Fox
-http://103.77.116.191:443//movie/fx_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,Fox Thai
-http://103.77.116.191:443//movie/fox_thai_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:0,Workpoint
 http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277227873_600/playlist.m3u8
-#EXTINF:0,True SCI
-http://103.77.116.191:443//documentary/true_explore_sci_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,True Wild
-http://103.77.116.191:443//documentary/true_explore_wild_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,JTV-BS
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs03.stream/playlist.m3u8
-#EXTINF:0,JTV-BS02
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs02.stream/playlist.m3u8
-#EXTINF:0,wowow-cinema
-http://cdn-usa1-streaming.ani-box.com:1935/live/bs09.stream/playlist.m3u8
-#EXTINF:0,True Asian Film
-http://103.77.116.191:443//movie/true_asian_series_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:0,True4U
 http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308235425316_600/playlist.m3u8
-#EXTINF:0,NHKG
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd01.stream/playlist.m3u8
-#EXTINF:0,TVasahi
-http://cdn-usa1-streaming.ani-box.com:1935/live/gd06.stream/playlist.m3u8
-#EXTINF:0,HBO-HD
-http://103.77.116.191:443//movie/hbo_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,NAT-GEO
-http://103.77.116.191:443//documentary/national_geographic_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,BBC-Earth
-http://103.77.116.191:443//documentary/bbc_earth_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+#EXTINF:0,HBOHD
+http://103.77.116.191:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=6NKTnwLZx1MsEaUpYAvEHA&username=20599&password=mmmmac0f1724eeb2d0502e70&e=1515300454
 #EXTINF:0,NHK-Word
 http://103.77.116.191:443//news/nhk_world_tv_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:0,Asia-News
 http://103.77.116.191:443//news/channel_newsasia_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,Sky news HD 
-http://103.77.116.191:443//news/sky_news_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,History CH
-http://103.77.116.191:443//documentary/history_channel_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,History CH2
-http://103.77.116.191:443//documentary/h2_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:0,bein1
-http://103.77.116.191:443//sporttrue/Jbein_sports_1_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
+http://103.77.116.191:443/sporttrue/Jbein_sports_1_480p.stream/playlist.m3u8?st=6NKTnwLZx1MsEaUpYAvEHA&username=20599&password=mmmmac0f1724eeb2d0502e70&e=1515300454
 #EXTINF:0,bein2
-http://103.77.116.191:443//sporttrue/bein_sports_2_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,TrueSport1HD
-http://103.77.116.191:443//sporttrue/truesport_hd_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,TrueSport2HD
-http://103.77.116.191:443//sporttrue/truesport_hd_2_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,TrueSport1
-http://103.77.116.191:443//sporttrue/truesport_1_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,TrueSport2
-http://103.77.116.191:443//sporttrue/truesport_2_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,TrueSport3
-http://103.77.116.191:443//sporttrue/truesport_3_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,TrueSport5
-http://103.77.116.191:443//sporttrue/truesport_5_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-#EXTINF:0,TrueSport7
-http://103.77.116.191:443//sporttrue/truesport_7_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
-
-
+http://103.77.116.191:443/sporttrue/bein_sports_2_480p.stream/playlist.m3u8?st=6NKTnwLZx1MsEaUpYAvEHA&username=20599&password=mmmmac0f1724eeb2d0502e70&e=1515300454
 
 
 
