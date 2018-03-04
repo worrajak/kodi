@@ -1,4 +1,6 @@
+#EXTINF:0,CH-3 Family
 http://fwfreetv-bl1.dyndns.tv:1935/freelive-edge/_definst_/3fm.smil/chunklist.m3u8?Q0s2amUrK0U5UlVrOStOQkNkZkppZE1LckdIVGlJd2p1RzFQaGtJT0FJeDVZdjFFRjBnUjNwZjFLQVpHbHFTZ28weXdDVmJncy93SnRDQVRDTCtEQVR2L2JlRXJ3VmRQR2cwMm1mc2l3OExlaytTK3JEN2FSd1h3TDl5WC9YQ0hUR1JJRUJxYytTbHVlUm4zcXlTNVlKSk1ETy9TR1JXNmZLb2NmUHd5bUswPQ=%3D%2C9eaa6a966d0b4ae5656f5cc3ffcae49d
+#EXTINF:0,CH-3SD
 http://fwfreetv-bl2.dyndns.tv:1935/freelive-edge/_definst_/3sd.smil/chunklist.m3u8?Q0s2amUrK0U5UlVrOStOQkNkZkppZE1LckdIVGlJd2p1RzFQaGtJT0FJeWhIai83cS9UNHRXRWxkZlJCTXpxN2hiYWRtVmVLSmw3bGpVclI1N1lkc09VSUdCdDlZZHpMNzVRaXJNUndIcnR5RHVRN0ZRNHFpbHN2emthY0VFeVlXbHlOblJKNERNUGxza0FLdDcxN0RncStGWS9UZlFjRnVHc2ZQeXozeXRFPQ=%3D%2C9eaa6a966d0b4ae5656f5cc3ffcae49d
 #EXTINF:0,CH-3HD
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
@@ -33,13 +35,11 @@ http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/292277227873_600/playlist.m3u
 http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308235425316_600/playlist.m3u8
 #EXTINF:0,HBOHD
 https://www.fifa55-live.com/fifa55m-53/0x222_ais_hbohd_720p/playlist.m3u8?key=hl925a8ec0e8ddc2f
-http://103.77.116.193:443/movie/hbo_hd_720p.stream/playlist.m3u8?st=zNx0nOhcq1mWDIV_qQDwwQ&username=12776&password=mmmmef484241b3792404b5ef&e=1515359189
 #EXTINF:0,NHK-Word
 https://www.fifa55-live.com/fifa55m-54/0x222_nhkworldtv_360p/playlist.m3u8?key=hl925a8ec0e8ddc2f
 #EXTINF:0,Asia-News
 https://www.fifa55-live.com/fifa55m-53/00_cctv_360p/playlist.m3u8?key=hl925a8ec0e8ddc2f
 https://www.fifa55-live.com/fifa55m-54/0x222_newsasia_360p/playlist.m3u8?key=hl925a8ec0e8ddc2f
-http://103.77.116.191:443//news/channel_newsasia_720p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 https://www.fifa55-live.com/fifa55m-54/0x222_dwchannel_360p/playlist.m3u8?key=hl925a8ec0e8ddc2f
 #EXTINF:0,bein1
 http://103.77.116.193:443/sportinter/bein1arab_360p.stream/playlist.m3u8?st=zNx0nOhcq1mWDIV_qQDwwQ&username=12776&password=mmmmef484241b3792404b5ef&e=1515359189
