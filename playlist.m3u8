@@ -13,6 +13,7 @@ http://103.77.116.193:443/varity/fashion_tv_hd_720p.stream/playlist.m3u8?st=zNx0
 #EXTINF:0,AmarinTV
 http://27.254.64.112:1935/thflixCH/Amarin_TV_HD.stream/playlist.m3u8
 #EXTINF:0,Thairath
+http://live.thairath.co.th/trtv2/playlist_720p/index.m3u8
 http://103.77.116.191:443//tvdigital/thairath_tv_480p.stream/playlist.m3u8?st=BAna1lrGOJFwi9ylGGNyeA&username2=0852222235&username=f4mB7YPQq5ZY0Nrpqf8E&password=mmmmce2c01a0f7f8b563bebf&e=1512072348
 #EXTINF:0,NewTV
 http://newtv.cdn.byteark.com/live/playlist_576p/index.m3u8
