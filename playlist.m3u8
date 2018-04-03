@@ -4,8 +4,6 @@ http://fwfreetv-bl1.dyndns.tv:1935/freelive-edge/_definst_/3fm.smil/chunklist.m3
 http://fwfreetv-bl2.dyndns.tv:1935/freelive-edge/_definst_/3sd.smil/chunklist.m3u8?Q0s2amUrK0U5UlVrOStOQkNkZkppZE1LckdIVGlJd2p1RzFQaGtJT0FJeWhIai83cS9UNHRXRWxkZlJCTXpxN2hiYWRtVmVLSmw3bGpVclI1N1lkc09VSUdCdDlZZHpMNzVRaXJNUndIcnR5RHVRN0ZRNHFpbHN2emthY0VFeVlXbHlOblJKNERNUGxza0FLdDcxN0RncStGWS9UZlFjRnVHc2ZQeXozeXRFPQ=%3D%2C9eaa6a966d0b4ae5656f5cc3ffcae49d
 #EXTINF:0,CH-3HD
 http://ch3-33.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:0,CH-3HD 2
-http://27.131.160.10/ibcbet/ch3/playlist.m3u8?st=zNx0nOhcq1mWDIV_qQDwwQ&username=12776&password=mmmmef484241b3792404b5ef&e=1515359189
 #EXTINF:0,CH-5HD
 http://103.212.181.21:1935/freelive-edge/_definst_/5hd.smil/playlist.m3u8
 #EXTINF:0,CH-7HD
@@ -38,6 +36,7 @@ http://symc-cdn03.bkk01.violin.co.th:1935/liveedge/308235425316_600/playlist.m3u
 https://www.fifa55-live.com/fifa55m-53/0x222_ais_hbohd_720p/playlist.m3u8?key=hl925a8ec0e8ddc2f
 #EXTINF:0,NHK-Word
 https://www.fifa55-live.com/fifa55m-54/0x222_nhkworldtv_360p/playlist.m3u8?key=hl925a8ec0e8ddc2f
+https://www.fifa55-live.com/fifa55m-54/0x222_nhkworldtv_720p/playlist.m3u8?key=hl925a8ec0e8ddc2f
 #EXTINF:0,CCTV
 https://www.fifa55-live.com/fifa55m-53/00_cctv_360p/playlist.m3u8?key=hl925a8ec0e8ddc2f
 #EXTINF:0,Asia-News
